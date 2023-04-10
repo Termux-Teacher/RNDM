@@ -1,3 +1,3 @@
 
 import o
-o login()
+o.login()
